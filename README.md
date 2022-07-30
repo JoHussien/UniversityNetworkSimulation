@@ -1,0 +1,2 @@
+# UniversityNetworkSimulation
+This repo serves as the repository of the CSCE 331202 Project – Computer Networks taught at the American University in Cairo at Spring 2021 and performed by me Youssef Hussien. In this project, we target the design of a university computer network using a set of Virtual Local Area networks (VLANs). The network is expected to offer a variety of services to different groups of users ranging from simply connecting to the Internet to data sharing and web services.
